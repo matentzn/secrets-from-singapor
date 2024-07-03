@@ -1,1 +1,1 @@
-# secrets-from-singapor
+# Secrets from singapore
